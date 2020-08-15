@@ -1,0 +1,82 @@
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+container{
+   min-height:100%;
+   position:relative;
+}
+header {
+   background:#ff0;
+   padding:10px;
+}
+body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+}
+
+footer{
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background-color: #00FFFF;
+}
+form.enter
+{
+	text-align:center;
+}
+form.loginform{
+	
+	text-align:center;
+}
+p.forgot{
+
+	font-size:44%;
+	text-align:center;
+	
+}
+p.signup{
+
+	font-size:44%;
+	text-align:center;
+	
+}
+button.button{
+  	text-align: center;
+  	font-size:90%;
+}
+ul.choosea{
+	text-align:center;
+}
+a.chooseb
+{
+	width: 50%;
+}
+form {
+    width: 100%;
+    margin: 0 auto;
+}
+
+label, input {
+    display: inline-block;
+}
+
+label {
+    width: 30%;
+    text-align: right;
+}
+
+label + input {
+    width: 30%;
+    margin: 0 30% 0 4%;
+}
+
+
+input + input {
+    float: right;
+}
+

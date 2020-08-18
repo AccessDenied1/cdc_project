@@ -1,1 +1,1 @@
-Lab Project of DBMS Course. Project is to create the web portal for placement and internship of the campus
+Lab Project of DBMS Course. The project is to create the web portal for placement and internship in the campus.
